@@ -4,6 +4,7 @@
 
 | File | What it is |
 |---|---|
+| `PROTOPUS_Answers_for_Prateek_Document.pdf` | **The document version** of the answers for Prateek, 13 dark pages in the Protopus design language (Space Grotesk / Space Mono, copper / blue / yellow). Each question has three parts: “Sir, you asked”, “I can answer” and “To justify”. Ends with the vision and a closing page. Every Baker, Mixer and Probe Matrix mention links to its page. |
 | `PROTOPUS_Answers_for_Prateek.pptx` / `.pdf` | 13-slide Q&A deck for Prateek in the Protopus design language. Each question gets one slide in three parts: “Sir, you asked” (his words), “I can answer” (a plain first-person reply) and “To justify” (the numbers, tables and diagrams). Baker, Mixer and Probe Matrix link to their pages. |
 | `PROTOPUS_Response_to_Prateek_Round1.pdf` | A concise answer to each of Prateek's round-1 questions. Covers: Proto as the moat and the expertise curve; softer claims, marked as projected; Baker first; market and competitor pricing, with where each competitor loses; honest automation; payback in boards; scale; the vision, with a smartwatch example. Every Baker and Probe Matrix mention links to its site. |
 | `PROTOPUS_Pitch_Deck_Baker_First.pptx` / `.pdf` | 20-slide deck that pitches Proto first and positions the product for prototyping, not production. Includes an expertise-curve slide, separate deep tech-stack slides for Baker and Mixer, competitor prices, 47-board payback, a ₹15 lakh Baker-first ask, step-by-step plan and vision. |
@@ -12,7 +13,7 @@
 
 Key numbers (projected): Baker ₹2,99,000 · Mixer ₹34,999 (step 2) · Proto ₹9,999 a year · ₹334 consumables per board vs ₹6,721 JLCPCB landed · payback in 47 boards · 750–1,250 boards a year per Baker · ask ₹15,00,000 (lean ₹10,00,000).
 
-Links: Baker https://protopus-kappa.vercel.app/#/baker · Probe Matrix https://probe-matrix.vercel.app/
+Links: Baker https://protopus-kappa.vercel.app/#/baker · Mixer https://protopus-kappa.vercel.app/#/mixer · Probe Matrix https://probe-matrix.vercel.app/
 
 ## Earlier files
 
