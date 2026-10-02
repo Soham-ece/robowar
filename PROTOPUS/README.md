@@ -4,6 +4,7 @@
 
 | File | What it is |
 |---|---|
+| `PROTOPUS_Answers_for_Prateek.pptx` / `.pdf` | 13-slide Q&A deck for Prateek in the Protopus design language. Each question gets one slide in three parts: “Sir, you asked” (his words), “I can answer” (a plain first-person reply) and “To justify” (the numbers, tables and diagrams). Baker, Mixer and Probe Matrix link to their pages. |
 | `PROTOPUS_Response_to_Prateek_Round1.pdf` | A concise answer to each of Prateek's round-1 questions. Covers: Proto as the moat and the expertise curve; softer claims, marked as projected; Baker first; market and competitor pricing, with where each competitor loses; honest automation; payback in boards; scale; the vision, with a smartwatch example. Every Baker and Probe Matrix mention links to its site. |
 | `PROTOPUS_Pitch_Deck_Baker_First.pptx` / `.pdf` | 20-slide deck that pitches Proto first and positions the product for prototyping, not production. Includes an expertise-curve slide, separate deep tech-stack slides for Baker and Mixer, competitor prices, 47-board payback, a ₹15 lakh Baker-first ask, step-by-step plan and vision. |
 | `PROTOPUS_Economics_Model.xlsx` | Live model behind the answers: unit economics, board cost (Baker vs JLCPCB vs Indian fab), payback, throughput and scale, ₹15 lakh use of funds, competitor prices and India market size. |
